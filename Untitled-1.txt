@@ -1,0 +1,3 @@
+function sentence(word){
+    return (let i=0, word >= word[i], i++)
+}
